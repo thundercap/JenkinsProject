@@ -707,5 +707,5 @@ Note: If you see error in Prometheus under "k8s", open port number 9100 for the 
 
 After everything is done. Delete everything. Make sure to delete the Cloud Formation Stacks.
 
-
+https://www.youtube.com/watch?v=GyoI6-I68aQ
 
